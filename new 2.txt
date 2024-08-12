@@ -1,0 +1,15 @@
+# Formulate sum variable and count variable
+sum = 0
+count = 0
+
+# Read the first integer from the input
+
+# While the input is not empty
+sum = sum + integer
+count = count + 1
+read integer from input
+
+# Calculate the arithmetic average
+average = sum / count
+
+# Return the arithmetic average

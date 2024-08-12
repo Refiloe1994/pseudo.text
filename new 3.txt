@@ -1,0 +1,23 @@
+# Read the grocery list and store it in a list
+grocery_list = input("Enter the grocrery list: ").split()
+
+# Sort the list in alphabetical order
+grocery_list.sort() 
+
+# Create an empty list to store the product that are still left to buy
+products_left_to_buy = []
+
+# Iterate through each product in the sorted list
+
+# For each product, prompt the user to enter whether it has been bouhgt or not
+for product in the grocery_list:
+	bought = input(f"Has {product} been bought? (yes/no): ")
+	
+# If the product has not been bought, add it to the list of products that are still left to buy
+if bought.lower()== "no"
+products_left_to_buy.appent(product)
+	
+# After iterating throuhg all products, print out the list of products that are still left to buy 
+print ("Product still left to buy:")
+for the product in product_still_left_to_buy:
+print(product)

@@ -1,0 +1,8 @@
+Step 1: Start
+Step 2: Read X and Y
+Step 3:	Intialise
+		S = X + Y
+		A = S / 2
+		P = X x Y
+Step 4: Write S, A, P
+Step 5: Stop
